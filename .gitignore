@@ -369,3 +369,5 @@ Releases/
 x64/
 *.dll
 *.ini
+*.vcxproj
+*.vcxproj.filters
